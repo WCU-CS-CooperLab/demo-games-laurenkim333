@@ -7,4 +7,4 @@ A template repository to publish games
 4) [main scene Sept 6](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/main_scene_9_6/)
 5) [main scene Sept 9](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/player_scene_9_9/)
 6) [Space Rocks main scene Sept 11](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/sr_main_9_11/)
-7) [Space Rocks main scene Sept 13](space_rocks_main_9_13/)
+7) [Space Rocks main scene Sept 13](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/space_rocks_main_9_13/)
