@@ -11,3 +11,5 @@ A template repository to publish games
 7) [FINAL Coin Dash](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash_done/)
 9) [project 1 phase I](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash-project1-phaseI/)
 10) [project 1 phase II](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash-project-1-phase-II/)
+11) [jungle jump 1](jungle_jump_a)
+12) [jungle jump 10/9](junglejump_level_one_10_9)
