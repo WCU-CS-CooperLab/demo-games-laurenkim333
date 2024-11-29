@@ -9,8 +9,6 @@ A template repository to publish games
 6) [Space Rocks main scene Sept 11](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/sr_main_9_11/)
 7) [Space Rocks main scene Sept 13](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/space_rocks_main_9_13/)
 7) [FINAL Coin Dash](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash_done/)
-9) [project 1 phase I](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash-project1-phaseI/)
-10) [project 1 phase II](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash-project-1-phase-II/)
 11) [jungle jump 1](jungle_jump_a)
 12) [jungle jump 10/9](junglejump_level_one_10_9)
 1) [Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project-1-phase-I/)
