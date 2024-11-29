@@ -13,6 +13,8 @@ A template repository to publish games
 10) [project 1 phase II](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/coindash-project-1-phase-II/)
 11) [jungle jump 1](jungle_jump_a)
 12) [jungle jump 10/9](junglejump_level_one_10_9)
+1) [Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project-1-phase-I/)
+1) [Project 1 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project-1-phase-II/)
 1) [Project 2 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project2-phaseI/)
 2) [Project 2 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project_2_phase_II/)
 1) [Project 3 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project_3_phase_I/)
