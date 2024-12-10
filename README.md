@@ -17,3 +17,5 @@ A template repository to publish games
 2) [Project 2 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project_2_phase_II/)
 1) [Project 3 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project_3_phase_I/)
 2) [Project 3 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-laurenkim333/project_3_phase_II/)
+3) [Project 4 Mac](NewProject4Mac.zip)
+4) [Project 4 Windows](NewProject4Window.exe)
